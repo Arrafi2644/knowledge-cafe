@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://ibb.co.com/7ynC1XB",
+      "author_img": "https://ibb.co.com/86t9sY3",
+      "author_name": "John Doe",
+      "title": "Exploring the Mountains",
+      "reading_time": 5,
+      "hash_tag": "#travel #nature",
+      "posted_date": "2024-10-01"
+    },
+    {
+      "id": 2,
+      "cover_img": "https://ibb.co.com/DRC4sCy",
+      "author_img": "https://ibb.co.com/jgyFWsB",
+      "author_name": "Jane Smith",
+      "title": "The Art of Minimalism",
+      "reading_time": 8,
+      "hash_tag": "#design #minimalism",
+      "posted_date": "2024-10-15"
+    },
+    {
+      "id": 3,
+      "cover_img": "https://ibb.co.com/1JPQZtt",
+      "author_img": "https://ibb.co.com/tLR7zWf",
+      "author_name": "Samuel Green",
+      "title": "Healthy Eating for a Better Life",
+      "reading_time": 10,
+      "hash_tag": "#health #wellness",
+      "posted_date": "2024-09-25"
+    },
+    {
+      "id": 4,
+      "cover_img": "https://ibb.co.com/sy36Ryd",
+      "author_img": "https://ibb.co.com/SyXTzLG",
+      "author_name": "Emily White",
+      "title": "Tech Trends in 2024",
+      "reading_time": 7,
+      "hash_tag": "#technology #future",
+      "posted_date": "2024-09-30"
+    }
+  ]
+
+  
