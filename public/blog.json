@@ -1,42 +1,42 @@
 [
     {
       "id": 1,
-      "cover_img": "https://ibb.co.com/7ynC1XB",
-      "author_img": "https://ibb.co.com/86t9sY3",
+      "cover_img": "https://i.ibb.co.com/848QjzF/1.jpg",
+      "author_img": "https://i.ibb.co.com/RhbCzpB/boy1.png",
       "author_name": "John Doe",
       "title": "Exploring the Mountains",
       "reading_time": 5,
-      "hash_tag": "#travel #nature",
+      "hashTags": ["#travel", "#nature"],
       "posted_date": "2024-10-01"
     },
     {
       "id": 2,
-      "cover_img": "https://ibb.co.com/DRC4sCy",
-      "author_img": "https://ibb.co.com/jgyFWsB",
+      "cover_img": "https://i.ibb.co.com/XySNB2p/2.png",
+      "author_img": "https://i.ibb.co.com/SVkcTZr/boy2.jpg",
       "author_name": "Jane Smith",
       "title": "The Art of Minimalism",
       "reading_time": 8,
-      "hash_tag": "#design #minimalism",
+      "hashTags": ["#design", "#minimalism"],
       "posted_date": "2024-10-15"
     },
     {
       "id": 3,
-      "cover_img": "https://ibb.co.com/1JPQZtt",
-      "author_img": "https://ibb.co.com/tLR7zWf",
+      "cover_img": "https://i.ibb.co.com/f4cJxMp/3.png",
+      "author_img": "https://i.ibb.co.com/nP9Z8VQ/girl1.jpg",
       "author_name": "Samuel Green",
       "title": "Healthy Eating for a Better Life",
       "reading_time": 10,
-      "hash_tag": "#health #wellness",
+      "hashTags": ["#health", "#wellness"],
       "posted_date": "2024-09-25"
     },
     {
       "id": 4,
-      "cover_img": "https://ibb.co.com/sy36Ryd",
-      "author_img": "https://ibb.co.com/SyXTzLG",
+      "cover_img": "https://i.ibb.co.com/mbP34P5/4.jpg",
+      "author_img": "https://i.ibb.co.com/0sytfhf/girl2.jpg",
       "author_name": "Emily White",
       "title": "Tech Trends in 2024",
       "reading_time": 7,
-      "hash_tag": "#technology #future",
+      "hashTags": ["#technology", "#future"],
       "posted_date": "2024-09-30"
     }
   ]
